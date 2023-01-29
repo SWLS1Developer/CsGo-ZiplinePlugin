@@ -18,9 +18,8 @@
 
 ## Map
 #### You can extract zipline pole model and textures from map using [VIDE (Valve Integrated Development Environment)](https://developer.valvesoftware.com/wiki/VIDE)
-
 #### You can decompile map using [BSP Source](https://developer.valvesoftware.com/wiki/BSPSource)
 
 ## Resources
-Zipline Pole 3D Model: [Zipline Pole](https://sketchfab.com/3d-models/fortnite-zipline-pole-db8eb25739ec4207b51661b2be5273b6)
-Original Map: awp_lego_2
+#### Zipline Pole 3D Model: [Zipline Pole](https://sketchfab.com/3d-models/fortnite-zipline-pole-db8eb25739ec4207b51661b2be5273b6)
+##### Original Map: awp_lego_2
