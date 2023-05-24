@@ -15,6 +15,7 @@
 `const int ZIPLINE_OFFSET = -70;`
 
 ##### You can change this values by editing the SP (SourcePawn) file and compiling the plugin again.
+##### (Im too lazy to add a configuration file)
 
 ## Map
 #### You can extract zipline pole model and textures from map using [VIDE (Valve Integrated Development Environment)](https://developer.valvesoftware.com/wiki/VIDE)
