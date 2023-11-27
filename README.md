@@ -5,8 +5,6 @@
 
 ## Known Bugs
 - The sound effect for using the zip line only plays at the location where the player starts riding the zip line.
-  ### Potential Fixe
-  ##### You can store 
 - While ziplining, crouching can sometimes get you in ground.
 
 ## Default Configuration
