@@ -1,12 +1,14 @@
 
 # CSGO Zip Line Plugin
-#### This plugin allows players to navigate through maps using zip lines, adding a new level of excitement and creativity to the game.
+#### This plugin allows players to navigate through maps using zip lines, adding a new level of excitement and creativity to the game. (This plugin is discontinued)
 
 
 ## Known Bugs
 - The sound effect for using the zip line only plays at the location where the player starts riding the zip line.
+  -- TEST
 - While ziplining, crouching can sometimes get you in ground.
 
+### Potential Fixes
 
 ## Default Configuration
 
